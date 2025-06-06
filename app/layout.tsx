@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "One Break",
-  description: "Cabalgatas en Córdoba",
+  title: "Pilecor",
+  description: "Piscinas pilecor",
 };
 
 export default function RootLayout({
