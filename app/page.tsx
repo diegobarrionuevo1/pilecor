@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 export default function Home() {
 
-  const whatsappLink = "https://api.whatsapp.com/send/?phone=+5493513853153&text=Hola!+Mi+amigo+Diego+Barrionuevo+es+un+crack!";
+  const whatsappLink = "https://api.whatsapp.com/send/?phone=+5493512092387&text=Hola!+Estoy+interesado+en+una+piscina!";
   return (
     <div className=" font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col items-center justify-center w-full ">
