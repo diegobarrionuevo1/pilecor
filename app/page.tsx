@@ -12,7 +12,7 @@ export default function Home() {
     <div className=" font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col items-center justify-center w-full ">
         <div className="relative  w-full h-screen overflow-hidden ">
-
+        <div className="absolute top-0 left-0 w-full h-full bg-black opacity-25 z-40"></div>
           <video
             src="https://pub-529e4be87aae4f07a6e3cdfd1f8e2a00.r2.dev/3573964-uhd_3840_2160_30fps.mp4"
             autoPlay
